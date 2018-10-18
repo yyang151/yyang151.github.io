@@ -1,0 +1,94 @@
+body{
+	font-family: "Dosis", sans-serif; 
+	color: white;
+	 bottom: 0;
+  text-shadow: 1px 1px 1px #000;
+}
+
+h1 {
+	font:bold;
+	text-align: center;
+	padding-top: 40px;
+	 bottom: 0;
+  text-shadow: 1px 1px 1px #000;
+}
+h2{
+	text-align: center;
+	 bottom: 0;
+  text-shadow: 1px 1px 1px #000;
+}
+.thumbnail1 img {
+	height:300px;
+	width: 350px;
+	margin: 0 auto;
+	padding: 0px;
+	margin-left: 220px;
+	background-color: transparent;
+	border-radius: 15px;
+}
+.thumbnail2 img {
+	height:300px;
+	width: 350px;
+	margin: 0 auto;
+	padding: 0px;
+	margin-left: 270px;
+	background-color: transparent;
+	border-radius: 15px;
+}
+#b1 {
+	margin-left: 350px;
+	margin-top: 20px;
+	margin-bottom: 70px;
+	 bottom: 0;
+  text-shadow: 1px 1px 1px #000;
+}
+#b2{
+	margin-left:150px;
+	margin-top: 20px;
+	margin-bottom: 70px;
+	 bottom: 0;
+  text-shadow: 1px 1px 1px #000;
+}
+#counter {
+	margin-left:550px;
+}
+#reset {
+	margin-left:150px;
+	 bottom: 0;
+  text-shadow: 1px 1px 1px #000;
+}
+p{
+	text-align: center;
+}
+#counter{
+width:15%;
+text-align: :center;
+}
+#clinton{
+	margin-left: 0px;
+	font-size: 30px;
+	font: bold;
+	border-radius: 15px;
+}
+#trump{
+	margin-left:400px;
+	font-size: 30px;
+	font: bold;
+	border-radius: 15px;
+
+}
+}
+.winner{
+	color:red;
+}
+
+#home {
+  background: url("http://i.imgur.com/KCJO13p.jpg") ;
+  background-size: cover;
+
+
+
+  position: relative;}
+
+
+
